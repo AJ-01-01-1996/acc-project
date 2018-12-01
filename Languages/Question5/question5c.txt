@@ -1,0 +1,46 @@
+	 1.) Link: http://philarcher.org/diary/2013/uripersistence/#recs
+		 File name: Best Practices for Publishing Linked Data.htm
+	 2.) Link: http://www.w3.org/TR/xmlschema-2/#string
+		 File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+	 3.) Link: http://www.w3.org/TR/xmlschema-2/#integer
+		 File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+	 4.) Link: http://www.w3.org/People/Barstow/#online_parsers.
+		 File name: Linked Data Glossary.htm
+	 5.) Link: http://www.w3.org/TR/rdf-sparql-query/#grammar
+		 File name: OWL 2 Web Ontology Language XML Serialization (Second Edition).htm
+	 6.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 7.) Link: http://example.org/#green-goblin
+		 File name: RDF 1.1 Turtle.htm
+	 8.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 9.) Link: http://example.org/#green-goblin
+		 File name: RDF 1.1 Turtle.htm
+	 10.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 11.) Link: http://example.org/#green-goblin
+		 File name: RDF 1.1 Turtle.htm
+	 12.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 13.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 14.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 15.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 16.) Link: http://example.org/#green-goblin
+		 File name: RDF 1.1 Turtle.htm
+	 17.) Link: http://example.org/#green-goblin
+		 File name: RDF 1.1 Turtle.htm
+	 18.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 19.) Link: http://example.org/#green-goblin
+		 File name: RDF 1.1 Turtle.htm
+	 20.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 21.) Link: http://example.org/#green-goblin
+		 File name: RDF 1.1 Turtle.htm
+	 22.) Link: http://example.org/#spiderman
+		 File name: RDF 1.1 Turtle.htm
+	 23.) Link: http://www.w3.org/TR/REC-xml/#sec-notation
+		 File name: RDF 1.1 Turtle.htm

@@ -1,0 +1,216 @@
+	 1.) Found email: public-pfwg-comments@w3.org
+ 		File name: Accessible Rich Internet Applications (WAI-ARIA) 1.0.txt
+	 2.) Found email: www-multimodal@w3.org
+ 		File name: Best practices for creating MMI Modality Components.txt
+	 3.) Found email: www-multimodal-request@w3.org
+ 		File name: Best practices for creating MMI Modality Components.txt
+	 4.) Found email: public-gld-comments@w3.org
+ 		File name: Best Practices for Publishing Linked Data.txt
+	 5.) Found email: ohto@w3.org
+ 		File name: CC PP Implementors Guide  Privacy and Protocols.txt
+	 6.) Found email: johan.hjelm@nrj.ericsson.se
+ 		File name: CC PP Implementors Guide  Privacy and Protocols.txt
+	 7.) Found email: www-mobile@w3.org
+ 		File name: CC PP Implementors Guide  Privacy and Protocols.txt
+	 8.) Found email: www-component-extension@w3.org
+ 		File name: Component Extension (CX) API requirements Version 1.0.txt
+	 9.) Found email: mikael.nilsson@ks.ericsson.se
+ 		File name: Composite Capabilities Preference Profiles  Terminology and Abbreviations.txt
+	 10.) Found email: www-mobile@w3.org
+ 		File name: Composite Capabilities Preference Profiles  Terminology and Abbreviations.txt
+	 11.) Found email: GK@acm.org
+ 		File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+	 12.) Found email: franklin.reynolds@nokia.com
+ 		File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+	 13.) Found email: woodroc@metaphoria.net
+ 		File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+	 14.) Found email: ohto@w3.org
+ 		File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+	 15.) Found email: Johan.hjelm@ericsson.com
+ 		File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+	 16.) Found email: mark-h_butler@hp.com
+ 		File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+	 17.) Found email: luu.tran@sun.com
+ 		File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+	 18.) Found email: www-mobile@w3.org
+ 		File name: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+	 19.) Found email: public-webappsec@w3.org
+ 		File name: Cross-Origin Resource Sharing.txt
+	 20.) Found email: www-style@w3.org
+ 		File name: CSS Namespaces Module Level 3.txt
+	 21.) Found email: www-style@w3.org
+ 		File name: CSS Namespaces Module Level 3.txt
+	 22.) Found email: www-style@w3.org
+ 		File name: CSS Namespaces Module Level 3.txt
+	 23.) Found email: www-style@w3.org
+ 		File name: CSS3 module  Presentation Levels.txt
+	 24.) Found email: public-swbp-wg@w3.org
+ 		File name: Defining N-ary Relations on the Semantic Web.txt
+	 25.) Found email: semantic-web@w3.org
+ 		File name: Defining N-ary Relations on the Semantic Web.txt
+	 26.) Found email: public-device-apis@w3.org
+ 		File name: Device APIs Requirements.txt
+	 27.) Found email: public-bpwg-comments@w3.org
+ 		File name: Guidelines for Web Content Transformation Proxies 1.0.txt
+	 28.) Found email: public-content-transformation-conformance@w3.org
+ 		File name: Guidelines for Web Content Transformation Proxies 1.0.txt
+	 29.) Found email: public-bpwg-comments@w3.org
+ 		File name: Guidelines for Web Content Transformation Proxies 1.0.txt
+	 30.) Found email: public-content-transformation-conformance@w3.org
+ 		File name: Guidelines for Web Content Transformation Proxies 1.0.txt
+	 31.) Found email: public-webapps@w3.org
+ 		File name: HTML Imports.txt
+	 32.) Found email: public-webapps@w3.org
+ 		File name: HTML Imports.txt
+	 33.) Found email: public-webapps@w3.org
+ 		File name: HTML Templates.txt
+	 34.) Found email: public-webapps@w3.org
+ 		File name: HTML Templates.txt
+	 35.) Found email: rguha@us.ibm.com
+ 		File name: LBase  Semantics for Languages of the Semantic Web.txt
+	 36.) Found email: phayes@ihmc.us
+ 		File name: LBase  Semantics for Languages of the Semantic Web.txt
+	 37.) Found email: www-rdf-comments@w3.org
+ 		File name: LBase  Semantics for Languages of the Semantic Web.txt
+	 38.) Found email: www-rdf-logic@w3.org
+ 		File name: LBase  Semantics for Languages of the Semantic Web.txt
+	 39.) Found email: xml-editor@w3.org
+ 		File name: Legacy extended IRIs for XML resource identification.txt
+	 40.) Found email: public-gld-comments@w3.org
+ 		File name: Linked Data Glossary.txt
+	 41.) Found email: public-mbui@w3.org
+ 		File name: MBUI - Task Models.txt
+	 42.) Found email: public-media-annotation@w3.org
+ 		File name: Metadata API for Media Resources 1.0.txt
+	 43.) Found email: public-media-annotation@w3.org
+ 		File name: Metadata API for Media Resources 1.0.txt
+	 44.) Found email: public-bpwg-comments@w3.org
+ 		File name: Mobile Web Application Best Practices.txt
+	 45.) Found email: public-html-comments@w3.org
+ 		File name: Offline Web Applications.txt
+	 46.) Found email: public-rif-comments@w3.org
+ 		File name: OWL 2 RL in RIF (Second Edition).txt
+	 47.) Found email: public-rif-dev@w3.org
+ 		File name: OWL 2 RL in RIF (Second Edition).txt
+	 48.) Found email: public-owl-comments@w3.org
+ 		File name: OWL 2 Web Ontology Language Direct Semantics (Second Edition).txt
+	 49.) Found email: public-owl-dev@w3.org
+ 		File name: OWL 2 Web Ontology Language Direct Semantics (Second Edition).txt
+	 50.) Found email: public-owl-comments@w3.org
+ 		File name: OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).txt
+	 51.) Found email: public-owl-dev@w3.org
+ 		File name: OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).txt
+	 52.) Found email: public-owl-comments@w3.org
+ 		File name: OWL 2 Web Ontology Language New Features and Rationale (Second Edition).txt
+	 53.) Found email: public-owl-dev@w3.org
+ 		File name: OWL 2 Web Ontology Language New Features and Rationale (Second Edition).txt
+	 54.) Found email: public-owl-comments@w3.org
+ 		File name: OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).txt
+	 55.) Found email: public-owl-dev@w3.org
+ 		File name: OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).txt
+	 56.) Found email: public-owl-comments@w3.org
+ 		File name: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+	 57.) Found email: public-owl-dev@w3.org
+ 		File name: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+	 58.) Found email: ivan@w3.org
+ 		File name: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+	 59.) Found email: sandro@w3.org
+ 		File name: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+	 60.) Found email: public-owl-comments@w3.org
+ 		File name: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+	 61.) Found email: Frank.van.Harmelen@cs.vu
+ 		File name: OWL Web Ontology Language Overview.txt
+	 62.) Found email: public-webont-comments@w3.org
+ 		File name: OWL Web Ontology Language Overview.txt
+	 63.) Found email: www-rdf-logic@w3.org
+ 		File name: OWL Web Ontology Language Overview.txt
+	 64.) Found email: public-device-apis@w3.org
+ 		File name: Permissions for Device API Access.txt
+	 65.) Found email: public-rdf-comments@w3.org
+ 		File name: RDF 1.1 Turtle.txt
+	 66.) Found email: public-swbp-wg@w3.org
+ 		File name: Representing Classes As Property Values on the Semantic Web.txt
+	 67.) Found email: public-swbp-wg@w3.org
+ 		File name: Representing Specified Values in OWL   value partitions  and  value sets .txt
+	 68.) Found email: public-pfwg-comments@w3.org
+ 		File name: Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap).txt
+	 69.) Found email: public-pfwg-comments@w3.org
+ 		File name: Role Attribute 1.0.txt
+	 70.) Found email: public-webappsec@w3.org
+ 		File name: Subresource Integrity.txt
+	 71.) Found email: wai-uaag-editor@w3.org
+ 		File name: Techniques for User Agent Accessibility Guidelines 1.0.txt
+	 72.) Found email: w3c-wai-ua@w3.org
+ 		File name: Techniques for User Agent Accessibility Guidelines 1.0.txt
+	 73.) Found email: public-gld-comments@w3.org
+ 		File name: Terms for describing people.txt
+	 74.) Found email: paul@digicool.com
+ 		File name: The ILU Requestor for HTTP servers.txt
+	 75.) Found email: public-gld-comments@w3.org
+ 		File name: The RDF Data Cube Vocabulary.txt
+	 76.) Found email: public-webapps@w3.org
+ 		File name: The WebSocket API.txt
+	 77.) Found email: whatwg@whatwg.org
+ 		File name: The WebSocket API.txt
+	 78.) Found email: public-tracking-comments@w3.org
+ 		File name: Tracking Compliance and Scope.txt
+	 79.) Found email: www-multimodal@w3.org
+ 		File name: Vocabularies for EmotionML.txt
+	 80.) Found email: www-multimodal-request@w3.org
+ 		File name: Vocabularies for EmotionML.txt
+	 81.) Found email: www-multimodal@w3.org
+ 		File name: Vocabularies for EmotionML.txt
+	 82.) Found email: w3c-ecommerce-ig@w3.org
+ 		File name: W3C activities related to Electronic Commerce.txt
+	 83.) Found email: w3c-ecommerce-ig@w3.org
+ 		File name: W3C activities related to Electronic Commerce.txt
+	 84.) Found email: w3c-ecommerce-ig-request@w3.org
+ 		File name: W3C activities related to Electronic Commerce.txt
+	 85.) Found email: public-pfwg-comments@w3.org
+ 		File name: WAI-ARIA 1.0 Authoring Practices.txt
+	 86.) Found email: public-audio@w3.org
+ 		File name: Web Audio Processing  Use Cases and Requirements.txt
+	 87.) Found email: public-audio@w3.org
+ 		File name: Web Audio Processing  Use Cases and Requirements.txt
+	 88.) Found email: public-audio@w3.org
+ 		File name: Web MIDI API.txt
+	 89.) Found email: public-audio@w3.org
+ 		File name: Web MIDI API.txt
+	 90.) Found email: public-usable-authentication@w3.org
+ 		File name: Web Security Context  User Interface Guidelines.txt
+	 91.) Found email: www-ws-arch@w3.org
+ 		File name: Web Services Architecture.txt
+	 92.) Found email: public-ws-policy-comments@w3.org
+ 		File name: Web Services Policy 1.5 - Framework.txt
+	 93.) Found email: public-ws-policy@w3.org
+ 		File name: Web Services Policy 1.5 - Framework.txt
+	 94.) Found email: www-html-editor@w3.org
+ 		File name: XHTML Basic 1.1 - Second Edition.txt
+	 95.) Found email: www-html@w3.org
+ 		File name: XHTML Basic 1.1 - Second Edition.txt
+	 96.) Found email: www-xml-linking-comments@w3.org
+ 		File name: XML Linking Language (XLink) Version 1.1.txt
+	 97.) Found email: public-swbp-wg@w3.org
+ 		File name: XML Schema Datatypes in RDF and OWL.txt
+	 98.) Found email: semantic-web@w3.org
+ 		File name: XML Schema Datatypes in RDF and OWL.txt
+	 99.) Found email: dsolo@alum.mit
+ 		File name: XML Signature Syntax and Processing Version 1.1.txt
+	 100.) Found email: frederick.hirsch@nokia.com
+ 		File name: XML Signature Syntax and Processing Version 1.1.txt
+	 101.) Found email: mnystrom@microsoft.com
+ 		File name: XML Signature Syntax and Processing Version 1.1.txt
+	 102.) Found email: tlr@w3.org
+ 		File name: XML Signature Syntax and Processing Version 1.1.txt
+	 103.) Found email: kelviny@microsoft.com
+ 		File name: XML Signature Syntax and Processing Version 1.1.txt
+	 104.) Found email: boyerj@ca.ibm
+ 		File name: XML Signature Syntax and Processing Version 1.1.txt
+	 105.) Found email: public-xmlsec@w3.org
+ 		File name: XML Signature Syntax and Processing Version 1.1.txt
+	 106.) Found email: public-webapps@w3.org
+ 		File name: XMLHttpRequest Level 1.txt
+	 107.) Found email: public-webapps@w3.org
+ 		File name: XMLHttpRequest Level 1.txt
+	 108.) Found email: public-qt-comments@w3.org
+ 		File name: XPath and XQuery Functions and Operators 3.0.txt
